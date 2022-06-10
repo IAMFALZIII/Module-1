@@ -8,6 +8,3 @@ Also changed more <div> to <section> and <aside> for semantic purposes as well.
 And the last thing was I changed the <div> in the footer to <footer> and changed the <h2> in the footer to a <h4> because I felt it wasn't as important as the <h2> and <h3>.
 
 <img src="">
-
-
-
